@@ -1,0 +1,13 @@
+# Compiled C program files
+*.exe
+*.o
+*.out
+*.obj
+
+# Generated folders
+output/
+tmp/
+.dist/
+
+# VS Code settings
+.vscode/
